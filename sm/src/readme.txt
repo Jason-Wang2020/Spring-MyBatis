@@ -14,7 +14,7 @@ sm:spring-mybatis的集成
 5.创建mybatis主配置文件
 6.创建Service接口和实现类，属性是dao
 7.创建spring的配置文件
-    1）数据源
+    1）数据源DataSource
     2）SQLSessionFactory
     3）Dao对象
     4)声明自定义的service
